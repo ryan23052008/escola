@@ -1,4 +1,4 @@
-package model;
+package com.senai.escola.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
